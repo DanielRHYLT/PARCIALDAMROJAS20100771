@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">PARCIALDAMROJAS20100771</string>
+    <string name="splashtitle">TravelApp</string>
+    <string name="splshdescription">Tu compañero ideal para planificar y disfrutar de tus viajes. Con TravelApp, podras explorar destinos emocionantes, organizar itinerarios personalizados y encontrar las mejores opciones de alojamiento y actividades, todo desde la palma de tu mano. Ya sea que estés planeando unas vacaciones soñadas o un viaje de último minuto, TravelApp está aquí para hacer que tu experiencia sea facil, eficiente y memorable. ¡Empieza a explorar el mundo con nozotros hoy mismo!</string>
+    <string name="splshbuttom">GET STARTED</string>
+    <string name="Logintitle">Sign In</string>
+    <string name="etemailinputtext">Enter your Email</string>
+    <string name="etpasswordinput">Enter your Password</string>
+    <string name="btnloginname">Sign In</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Hoteles</string>
+    <string name="menu_gallery">Presupuesto</string>
+    <string name="menu_slideshow">Seguros</string>
+    <string name="fragpresupuestotitle">Presupuesto</string>
+    <string name="presupuestosub">El presupuesto total es:</string>
+    <string name="inputCostoVuelo">Costo de vuelo en USD</string>
+    <string name="inputAlojamiento">Costo del alojamiento por noche USD</string>
+    <string name="inputCantNoches">Cantidad de noches</string>
+    <string name="inputCostoComida">Costo diario de comidas en USD</string>
+    <string name="rbterns">I agree to the Terms of Services and Privacity Policy</string>
+    <string name="btncalcularname">Calcular</string>
+    <string name="Segurostitle">Empresas de Seguros</string>
+    <string name="hotelestitle">Hoteles</string>
 </resources>

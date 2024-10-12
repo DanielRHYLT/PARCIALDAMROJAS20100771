@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_hoteles">
+
+    <fragment
+        android:id="@+id/nav_hoteles"
+        android:name="dev.dobler.myapplication.ui.hoteles.HotelesFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_hoteles" />
+
+    <fragment
+        android:id="@+id/nav_presupuesto"
+        android:name="dev.dobler.myapplication.ui.presupuesto.PresupuestoFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_presupuesto" />
+
+    <fragment
+        android:id="@+id/nav_seguros"
+        android:name="dev.dobler.myapplication.ui.seguros.SegurosFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_seguros" />
+</navigation>
