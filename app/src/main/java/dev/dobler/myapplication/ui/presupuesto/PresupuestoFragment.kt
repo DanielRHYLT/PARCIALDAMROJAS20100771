@@ -28,7 +28,7 @@ class PresupuestoFragment : Fragment() {
         _binding = FragmentPresupuestoBinding.inflate(inflater, container, false)
         val root: View = binding.root
 
-        val textView: TextView = binding.textGallery
+        val textView: TextView = binding.textView4
         presupuestoViewModel.text.observe(viewLifecycleOwner) {
             textView.text = it
         }
